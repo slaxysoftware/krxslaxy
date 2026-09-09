@@ -30,7 +30,7 @@ A lightweight, modern, standalone GUI frontend template built with **C++20**, **
 2. Open krxslaxy.sln in Visual Studio 2022.
 3. Select **Release** and **x64** configuration.
 4. Press **Build Solution** (Ctrl+Shift+B).
-5. Output executable will be generated at in/Release/krxslaxy.exe.
+5. Output executable will be generated at bin/Release/krxslaxy.exe.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
