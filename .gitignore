@@ -1,0 +1,20 @@
+# Build / Intermediate outputs
+bin/
+obj/
+*.obj
+*.pdb
+*.tlog
+*.idb
+*.ilk
+*.exp
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.opendb
+
+# Temporary / Scratch
+*.tmp
+*.log
