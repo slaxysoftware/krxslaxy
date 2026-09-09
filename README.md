@@ -27,11 +27,6 @@ A lightweight, modern, standalone GUI frontend template built with **C++20**, **
 - Windows 10/11 SDK
 
 ### Build Steps
-1. Clone the repository:
-   `ash
-   git clone https://github.com/<your-username>/krxslaxy.git
-   cd krxslaxy
-   `
 2. Open krxslaxy.sln in Visual Studio 2022.
 3. Select **Release** and **x64** configuration.
 4. Press **Build Solution** (Ctrl+Shift+B).
